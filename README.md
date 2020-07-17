@@ -1,2 +1,3 @@
-# 21 :spades: :hearts: :clubs: :diamonds:
-**Jogo de cartas 21, feito com Inteligência artificial, jogue contra o computador :)**
+# Cli 21 
+:spades: :hearts: :clubs: :diamonds:  
+> **The classic card game 21 on CLI**  
